@@ -7,4 +7,4 @@ Creating a new branch is quick AND simple.
 trying
 trying again
 pardon
-git is a gree software
+git is a gree software and great
